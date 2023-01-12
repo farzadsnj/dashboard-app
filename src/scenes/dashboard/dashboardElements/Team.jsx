@@ -1,8 +1,11 @@
 import React from 'react'
+import IndexTeam from '../../team/IndexTeam'
 
 const Team = () => {
   return (
-    <div>Team</div>
+    <div>
+      <IndexTeam />
+    </div>
   )
 }
 

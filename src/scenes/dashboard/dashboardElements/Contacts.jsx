@@ -1,8 +1,11 @@
 import React from 'react'
+import IndexContacts from '../../contacts/IndexContacts'
 
 const Contacts = () => {
   return (
-    <div>Contacts</div>
+    <div>
+      <IndexContacts />
+    </div>
   )
 }
 

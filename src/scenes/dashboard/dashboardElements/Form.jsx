@@ -1,8 +1,11 @@
 import React from 'react'
+import IndexForm from '../../form/IndexForm'
 
 const Form = () => {
   return (
-    <div>Form</div>
+    <div>
+      <IndexForm />
+    </div>
   )
 }
 

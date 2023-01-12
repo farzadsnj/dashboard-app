@@ -1,8 +1,11 @@
 import React from 'react'
+import IndexInvoices from '../../invoices/IndexInvoices'
 
 const Invoices = () => {
   return (
-    <div>Invoices</div>
+    <div>
+      <IndexInvoices />
+    </div>
   )
 }
 
