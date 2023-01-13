@@ -1,8 +1,11 @@
 import React from 'react'
+import IndexPie from '../../pie/IndexPie'
 
 const Pie = () => {
   return (
-    <div>Pie</div>
+    <div>
+      <IndexPie />
+    </div>
   )
 }
 

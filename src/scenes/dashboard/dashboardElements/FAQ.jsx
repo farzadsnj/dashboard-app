@@ -1,8 +1,11 @@
 import React from 'react'
+import IndexFAQ from '../../faq/IndexFAQ'
 
 const FAQ = () => {
   return (
-    <div>FAQ</div>
+    <div>
+      <IndexFAQ />
+    </div>
   )
 }
 

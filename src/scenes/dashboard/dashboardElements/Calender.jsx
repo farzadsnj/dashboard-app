@@ -1,8 +1,12 @@
 import React from 'react'
+import IndexCalender from '../../calender/IndexCalender'
 
 const Calender = () => {
   return (
-    <div>Calender</div>
+    <div>
+      fsss
+      <IndexCalender />
+    </div>
   )
 }
 

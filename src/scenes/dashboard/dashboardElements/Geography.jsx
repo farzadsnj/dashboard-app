@@ -1,8 +1,11 @@
 import React from 'react'
+import IndexGeo from '../../geo/IndexGeo'
 
 const Geography = () => {
   return (
-    <div>Geography</div>
+    <div>
+      <IndexGeo />
+    </div>
   )
 }
 

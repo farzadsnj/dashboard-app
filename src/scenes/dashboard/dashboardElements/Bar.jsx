@@ -1,8 +1,11 @@
 import React from 'react'
+import IndexBar from '../../bar/IndexBar'
 
 const Bar = () => {
   return (
-    <div>Bar</div>
+    <div>
+      <IndexBar />
+    </div>
   )
 }
 
