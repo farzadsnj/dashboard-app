@@ -4,7 +4,6 @@ import IndexCalender from '../../calender/IndexCalender'
 const Calender = () => {
   return (
     <div>
-      fsss
       <IndexCalender />
     </div>
   )
