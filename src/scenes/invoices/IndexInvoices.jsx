@@ -24,7 +24,7 @@ const IndexInvoices = () => {
 
   return (
     <Box m='20px'>
-        <Header title='INVOICESghghghhg' subTitle='List of Invoice balances' />
+        <Header title='INVOICES' subTitle='List of Invoice balances' />
         <Box m='40px 0 0 0' height='75vh' sx={{
             '& .MuiDataGrid-root' : {
                 border: 'none '
